@@ -1,0 +1,6 @@
+Time,Weather,Temperature,Company,Humidity,Wind,airspeed,Goes
+Morning,Sunny,Warm,Yes,Mild,Strong,10,Yes
+Evening,Rainy,Cold,No,Mild,Normal,8723,No
+Morning,Sunny,Moderate,Yes,Normal,Normal,109,Yes
+Evening,Sunny,Cold,Yes,High,Strong,10,Yes
+Morning,Sunny,Warm,Yes,High,Strong,10,Yes
